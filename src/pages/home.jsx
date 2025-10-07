@@ -121,7 +121,7 @@ const Home = () => {
       </section>
       <section id='register' classname=' items-center justify-center w-full flex flex-col gap-10 p-10 min-h-[90vh] px-4 md:px-10 py-10 bg-zinc-200 scroll-offset'>
         <h1 className='text-center font-extrabold font-[pankh] text-3xl md:text-5xl'>Join Now <br />
-       <span className='cursor-target font-[roboto] text-xl  font-light hover:text-blue-600'> <a href="https://chat.whatsapp.com/EZ5dq0kWzTULuhgyvFSqGg" className='text-blue-600 underline'>Click here</a>/Scan the QR</span></h1>
+       <span className='cursor-target font-[roboto] text-xl  font-light hover:text-blue-600'> <a href="https://chat.whatsapp.com/EZ5dq0kWzTULuhgyvFSqGg" className='text-blue-600 underline'>click here</a>/scan the </span></h1>
 
 <div className='w-full h-auto flex items-center justify-center'>
         <a href="https://chat.whatsapp.com/EZ5dq0kWzTULuhgyvFSqGg">
