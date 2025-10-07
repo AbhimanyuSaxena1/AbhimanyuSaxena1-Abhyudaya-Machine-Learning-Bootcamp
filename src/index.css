@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+/* Enable smooth scrolling for in-page anchor links and provide a scroll-offset helper
+   to account for the fixed navbar height (10vh). Apply the class `scroll-offset` to any
+   section that should appear below the fixed navbar when navigated to. */
+html {
+  scroll-behavior: smooth;
+}
+
+.scroll-offset {
+  scroll-margin-top: 10vh;
+}
+
+@font-face {
+  font-family: "galabix";
+  src: url('./fonts/Galabix-Exfont9aad.otf');
+}
+@font-face {
+  font-family: "pankh";
+  src: url("./fonts/Pankh-Exfont2fba.otf");
+}
+
+@font-face {
+  font-family: "chencau";
+  src: url('./fonts/Chencau-Exfont484f.otf');
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('./fonts/Roboto-VariableFont_wdth\,wght.ttf');
+}
