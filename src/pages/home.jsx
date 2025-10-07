@@ -130,7 +130,7 @@ const Home = () => {
   
   </div>      </section>
 
-  <div className="div hover:scale-90 transition-transform bg-[] fixed bottom-20 right-20 bg-white/20 backdrop-blur-lg p-5 rounded-full">
+  <div className="div hover:scale-90 transition-transform bg-[] fixed bottom-10 right-10 md:bottom-20 md:right-20 bg-white/20 backdrop-blur-lg p-5 rounded-full">
     <a href="#home">
 
       <FaArrowUp />
